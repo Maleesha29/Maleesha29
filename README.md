@@ -46,10 +46,10 @@
 
 ### 🐍 GitHub Contribution Snake Animation
 
-![Snake animation](https://github.com/Maleesha29/Maleesha29/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Maleesha29/Maleesha29/blob/main/dist/github-contribution-grid-snake.svg)
 
-### Alternate Link (If Above Doesn't Work)
-![Snake animation](https://raw.githubusercontent.com/Maleesha29/Maleesha29/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Maleesha29/Maleesha29/main/dist/github-contribution-grid-snake.svg)
+
 
 
 
