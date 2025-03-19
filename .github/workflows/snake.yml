@@ -15,14 +15,11 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: Maleesha29
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: Maleesha29  # Replace with your actual GitHub username
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Commit and Push the generated snake animation
-        uses: EndBug/add-and-commit@v9
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          author_name: GitHub Actions
-          message: "Generated snake animation"
-          add: "github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg"
+          commit_message: "Generated snake animation"
+          file_pattern: dist/github-contribution-grid-snake.svg
