@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs once daily at midnight
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   snake:
@@ -12,17 +12,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
           github_user_name: Maleesha29
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push the generated snake animation
+      - name: Commit and Push the generated snake animation
         uses: EndBug/add-and-commit@v9
         with:
           author_name: GitHub Actions
           message: "Generated snake animation"
-          add: "dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg"
+          add: "github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg"
