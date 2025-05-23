@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Lishan Maleesha from Kesbewa<br><br>
+<p align="left">I'm Lishan Maleesha Karunarathna from Gonapola, Western Provience<br><br>
   - 🎓 I’m an IT undergraduate at SLIIT<br>
   - 🛠️ I’m currently working on DevOps projects and cloud automation.<br>
   - 🎮 In my free time, I enjoy gaming and watch movies.</p>
