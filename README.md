@@ -5,10 +5,10 @@
 
 ### 👨‍💻 About Me
 - 🎓 IT Undergraduate at SLIIT  
-- ⚙️ Passionate about **DevOps, Cloud Computing, and Automation**  
-- 🚀 Currently building **CI/CD pipelines and cloud-native applications**  
-- 🧠 Working on **AI-powered Pet Healthcare System (Final Year Research)**  
-- 🎯 Goal: Become a professional DevOps Engineer  
+- ⚙️ Focused on **DevOps engineering, cloud infrastructure, and automation**  
+- 🔧 Hands-on experience with **CI/CD pipelines, containerization, and infrastructure as code**  
+- 🌱 Continuously learning and improving skills in **cloud-native technologies**  
+- 🎯 Passionate about building scalable, reliable, and efficient systems  
 
 ---
 
@@ -32,22 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-🔹 **CI/CD Pipeline Automation**
-- Built using Jenkins, Docker, Terraform, SonarQube  
-- Automated build, test, and deployment workflow  
-
-🔹 **Smart Pet Health Care System**
-- AI-based system for BCS prediction, disease risk & diet recommendation  
-- Tech: MERN + Machine Learning + Cloud Deployment  
 
 ---
 
@@ -63,9 +51,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧾 Profile Summary
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maleesha29&show_icons=true&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maleesha29&theme=tokyonight"/>
 </p>
 
 ---
