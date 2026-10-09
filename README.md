@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 IT Undergraduate at SLIIT  
+- 🎓 IT Graduate at SLIIT  
 - ⚙️ Focused on **DevOps engineering, cloud infrastructure, and automation**  
 - 🔧 Hands-on experience with **CI/CD pipelines, containerization, and infrastructure as code**  
 - 🌱 Continuously learning and improving skills in **cloud-native technologies**  
